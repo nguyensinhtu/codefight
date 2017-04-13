@@ -1,2 +1,0 @@
-# codefight
-fire
